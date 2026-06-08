@@ -64,58 +64,58 @@ const CONFIG = {
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/zabank.webp',
-      color_1: '#989bf8',
+      color_1: '#1de0a5',
       title_2: 'Sketch',
       img_2: '/images/heo/wise.webp',
-      color_2: '#ffffff'
+      color_2: '#86e95c'
     },
     {
       title_1: 'Docker',
       img_1: '/images/heo/zhifu.webp',
-      color_1: '#57b6e6',
+      color_1: '#e1c6a0',
       title_2: 'Photoshop',
       img_2: '/images/heo/kraken.webp',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'FinalCutPro',
       img_1: '/images/heo/binance.webp',
-      color_1: '#ffffff',
+      color_1: '#000000',
       title_2: 'Python',
       img_2: '/images/heo/ibkr.webp',
-      color_2: '#ffffff'
+      color_2: '#000000'
     },
     {
       title_1: 'Swift',
       img_1: '/images/heo/hsbc.webp',
-      color_1: '#eb6840',
+      color_1: '#ffffff',
       title_2: 'Principle',
       img_2: '/images/heo/backpack.webp',
-      color_2: '#8f55ba'
+      color_2: '#ffffff'
     },
     {
       title_1: 'illustrator',
       img_1: '/images/heo/jiaxin.webp',
-      color_1: '#f29e39',
+      color_1: '#009ddb',
       title_2: 'CSS3',
       img_2: '/images/heo/fuxing.webp',
-      color_2: '#2c51db'
+      color_2: '#ff6908'
     },
     {
       title_1: 'JS',
       img_1: '/images/heo/xiongmao.webp',
-      color_1: '#f7cb4f',
+      color_1: '#ffffff',
       title_2: 'HTML',
       img_2: '/images/heo/xiangxiang.webp',
-      color_2: '#e9572b'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Git',
       img_1: '/images/heo/bochk.webp',
-      color_1: '#df5b40',
+      color_1: '#ffffff',
       title_2: 'Rhino',
       img_2: '/images/heo/xesim.webp',
-      color_2: '#1f1f1f'
+      color_2: '#e8823d'
     }
   ],
 
